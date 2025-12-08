@@ -8,6 +8,16 @@ Requirements
 --
 Snow icon theme requires Papirus icon theme: https://store.kde.org/p/1166289
 
+Tested on: Solus KDE/Gnome/Budgie/XFCE
+
+Fedora KDE/Gnome/Budgie 
+
+Zorin OS 17 Pro/core/lite 
+
+PopOS Gnome/Cosmic 
+
+Manjaro - KDE
+
 Screenshots
 --
 <img width="1920" height="1080" alt="Screenshot_20251127_195217" src="https://github.com/user-attachments/assets/6c67bbc2-3a00-4ac6-8966-1e4541fd0477" />
