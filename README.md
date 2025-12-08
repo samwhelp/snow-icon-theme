@@ -14,7 +14,7 @@ Solus KDE/Gnome/Budgie/XFCE
 
 Fedora KDE/Gnome/Budgie 
 
-Zorin OS 17 Pro/core/lite 
+Zorin OS 18 Pro/core/lite 
 
 PopOS Gnome/Cosmic 
 
