@@ -1,6 +1,6 @@
 
 
-# snow-icon-theme
+# Home
 
 > [snow-icon-theme](https://github.com/samwhelp/snow-icon-theme)
 
