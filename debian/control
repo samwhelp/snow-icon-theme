@@ -1,0 +1,19 @@
+Source: snow-icon-theme
+Section: universe/x11
+Priority: optional
+Maintainer: Develop Team <develop@home.heaven>
+Build-Depends:
+ debhelper (>= 10),
+ make
+Standards-Version: 4.7.2
+Homepage: https://samwhelp.github.io/snow-icon-theme/
+Vcs-Browser: https://github.com/samwhelp/snow-icon-theme
+Vcs-Git: https://github.com/samwhelp/snow-icon-theme.git
+
+Package: snow-icon-theme
+Architecture: all
+Depends:
+ ${misc:Depends}
+Description: Grey Icon Theme
+ Snow Icon Theme is a Grey Icon Theme Pack.
+ Source from [Snow](https://github.com/SethStormR/Snow).

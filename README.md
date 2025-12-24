@@ -1,27 +1,48 @@
-# Snow
-Snow icon theme is a semi-transparent icon theme with 1000 of apps icons and 1000s of system icons.
-It works best with blurred or transparent windows, like Layan window theme for KDE: https://store.kde.org/p/1325243
 
-Snow icon theme is available for KDE/Gnome/XFCE/budgie DE and Cosmic DE.
 
-Requirements
---
-Snow icon theme requires Papirus icon theme: https://store.kde.org/p/1166289
+# snow-icon-theme
 
-Tested on
---
-Solus KDE/Gnome/Budgie/XFCE
+> [snow-icon-theme](https://samwhelp.github.io/snow-icon-theme)
 
-Fedora KDE/Gnome/Budgie 
 
-Zorin OS 18 Pro/core/lite 
 
-PopOS Gnome/Cosmic 
 
-Manjaro - KDE
+## Subject
 
-Screenshots
---
-<img width="1920" height="1080" alt="Screenshot_20251127_195217" src="https://github.com/user-attachments/assets/6c67bbc2-3a00-4ac6-8966-1e4541fd0477" />
+* [Source](#source)
+* [Branch](#branch)
+* [Howto](#howto)
+* [Issue](#issue)
 
-<img width="1920" height="1080" alt="Screenshot_20251127_195241" src="https://github.com/user-attachments/assets/2ee71755-4988-4c22-9dd9-d6c21f46a24d" />
+
+
+
+## Source
+
+| Source |
+| ------ |
+| GitHub / SethStormR / [Snow](https://github.com/SethStormR/Snow) |
+
+
+
+
+## Branch
+
+| Branch | Note |
+| ------ | ---- |
+| [main](https://github.com/samwhelp/snow-icon-theme/tree/main) | Forked from [SethStormR/Snow](https://github.com/SethStormR/Snow) |
+| [develop](https://github.com/samwhelp/snow-icon-theme/tree/develop) | For develop |
+| [port](https://github.com/samwhelp/snow-icon-theme/tree/port) | For [pacstall](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-snow-icon-theme/bean-appearance-snow-icon-theme.pacscript#L7) |
+
+
+
+
+## Howto
+
+### help
+
+run
+
+``` sh
+make help
+```
