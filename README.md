@@ -32,7 +32,7 @@
 | ------ | ---- |
 | [main](https://github.com/samwhelp/snow-icon-theme/tree/main) | Forked from [SethStormR/Snow](https://github.com/SethStormR/Snow) |
 | [develop](https://github.com/samwhelp/snow-icon-theme/tree/develop) | For develop |
-| [port](https://github.com/samwhelp/snow-icon-theme/tree/port) | For [pacstall](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-appearance-snow-icon-theme/bean-appearance-snow-icon-theme.pacscript#L7) |
+| [port](https://github.com/samwhelp/snow-icon-theme/tree/port) | For [pacstall](https://github.com/samwhelp/deb-coffee-fancy/blob/main/packages/bean-appearance-snow-icon-theme/bean-appearance-snow-icon-theme.pacscript#L7) |
 
 
 
